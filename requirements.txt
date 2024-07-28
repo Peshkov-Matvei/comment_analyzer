@@ -1,0 +1,6 @@
+google-api-python-client
+scikit-learn
+pandas
+numpy
+nltk
+jupyter
